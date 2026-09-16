@@ -91,7 +91,7 @@ export function MarketingSection() {
   return (
     <Section id="marketing">
       <SectionHeader 
-        number="04" 
+        number="05"
         title={t('marketing.sectionTitle', 'MARKETING.MODULE')} 
         subtitle={t('marketing.subtitle', 'No es hacer posts. Es construir sistemas de crecimiento.')}
       />

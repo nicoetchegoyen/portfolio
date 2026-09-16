@@ -11,7 +11,7 @@ export function CurrentlySection() {
   return (
     <Section id="currently">
       <SectionHeader 
-        number="07" 
+        number="08"
         title={t('currently.sectionTitle', 'STATUS.CURRENT')} 
         subtitle={t('currently.subtitle', 'Qué estoy haciendo ahora.')}
       />

@@ -3,6 +3,7 @@
     "about": "About",
     "timeline": "Evolution",
     "projects": "Projects",
+    "game": "Challenge",
     "marketing": "Marketing",
     "ai": "AI",
     "skills": "Skills",
@@ -60,8 +61,76 @@
     "viewLive": "Live",
     "caseStudy": "Case Study"
   },
-  "marketing": {
+  "game": {
     "sectionNumber": "04",
+    "sectionTitle": "NODE//SHIFT",
+    "subtitle": "Build a system. Discover how you think.",
+    "runner": {
+      "subtitle": "Move the core. Capture the signal. Dodge the noise.",
+      "signals": "SIGNALS",
+      "score": "SCORE",
+      "energy": "ENERGY",
+      "collect": "COLLECT",
+      "avoid": "DODGE",
+      "canvasLabel": "NODE SHIFT game area",
+      "readyTitle": "Synchronize the core",
+      "instructions": "Move the core with your mouse or finger. Capture 12 green signals and avoid the red glitches.",
+      "start": "START SIGNAL",
+      "wonTitle": "System connected",
+      "wonText": "You captured the signal and turned the noise into a living system.",
+      "lostTitle": "Signal interrupted",
+      "lostText": "You were close. Jump back in, chain combos, and keep away from the noise.",
+      "retry": "PLAY AGAIN",
+      "footer": "12 signals · 30 seconds · 3 lives"
+    },
+    "missionLabel": "Your mission",
+    "routeLabel": "SYSTEM ROUTE",
+    "reset": "Reset",
+    "startHint": "Choose the first node",
+    "activeHint": "The signal is live",
+    "selectNode": "Select",
+    "nextMission": "Next mission",
+    "nodes": {
+      "systems": "Systems",
+      "marketing": "Marketing",
+      "ai": "AI",
+      "design": "Design",
+      "product": "Product"
+    },
+    "missions": {
+      "launch": {
+        "title": "Launch something that matters",
+        "brief": "A strong idea must become a desirable, functional product that can find its audience. Connect four disciplines in the order you would use to launch it.",
+        "hint": "Understand people first. Then build, shape, and amplify."
+      },
+      "automate": {
+        "title": "Erase repetitive work",
+        "brief": "A team loses hours to a manual task. Design a system that detects the pattern, automates it, and becomes effortless to use.",
+        "hint": "Automation begins with logic, learns the pattern, and ends with experience."
+      },
+      "growth": {
+        "title": "Recover a campaign",
+        "brief": "The product works, but the campaign stopped converting. Build a route that turns scattered data into an experience that drives growth again.",
+        "hint": "Listen to the market signal, find patterns, and reshape the proposition."
+      }
+    },
+    "results": {
+      "architect": {
+        "title": "SYSTEM ARCHITECT",
+        "description": "The route is clear, coherent, and actionable. You connected disciplines instead of treating them as silos."
+      },
+      "builder": {
+        "title": "SYSTEM BUILDER",
+        "description": "The system works and its logic is solid. Refine the signal order to multiply its impact."
+      },
+      "explorer": {
+        "title": "SIGNAL EXPLORER",
+        "description": "You found unexpected connections. Try another sequence: sometimes order changes the entire outcome."
+      }
+    }
+  },
+  "marketing": {
+    "sectionNumber": "05",
     "sectionTitle": "MARKETING.MODULE",
     "subtitle": "It's not about posting. It's about building growth systems.",
     "intro": "I work in digital marketing for real companies. It's not a casual interest — it's part of my current professional practice.",
@@ -77,7 +146,7 @@
     }
   },
   "ai": {
-    "sectionNumber": "05",
+    "sectionNumber": "06",
     "sectionTitle": "AI.TOOLKIT",
     "subtitle": "I don't build AI models. I use AI to build better.",
     "intro": "Artificial intelligence isn't a trend in my workflow — it's a daily tool that amplifies my creative and technical processes.",
@@ -91,7 +160,7 @@
     }
   },
   "skills": {
-    "sectionNumber": "06",
+    "sectionNumber": "07",
     "sectionTitle": "SKILLS.MAP",
     "subtitle": "No arbitrary percentages. Real skills with context.",
     "categories": {
@@ -107,7 +176,7 @@
     }
   },
   "currently": {
-    "sectionNumber": "07",
+    "sectionNumber": "08",
     "sectionTitle": "STATUS.CURRENT",
     "subtitle": "What I'm working on now.",
     "items": {
@@ -119,7 +188,7 @@
     }
   },
   "contact": {
-    "sectionNumber": "08",
+    "sectionNumber": "09",
     "sectionTitle": "CONNECT.INIT",
     "headline": "Let's build something.",
     "description": "If you have a project, an idea, or an opportunity — let's talk.",

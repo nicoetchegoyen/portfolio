@@ -3,6 +3,7 @@
     "about": "Perfil",
     "timeline": "Evolución",
     "projects": "Proyectos",
+    "game": "Desafío",
     "marketing": "Marketing",
     "ai": "IA",
     "skills": "Skills",
@@ -60,8 +61,76 @@
     "viewLive": "En vivo",
     "caseStudy": "Case Study"
   },
-  "marketing": {
+  "game": {
     "sectionNumber": "04",
+    "sectionTitle": "NODE//SHIFT",
+    "subtitle": "Construí un sistema. Descubrí cómo pensás.",
+    "runner": {
+      "subtitle": "Mové el núcleo. Capturá la señal. Esquivá el ruido.",
+      "signals": "SEÑALES",
+      "score": "PUNTAJE",
+      "energy": "ENERGÍA",
+      "collect": "CAPTURÁ",
+      "avoid": "ESQUIVÁ",
+      "canvasLabel": "Área de juego NODE SHIFT",
+      "readyTitle": "Sincronizá el núcleo",
+      "instructions": "Mové el núcleo con el mouse o el dedo. Capturá 12 señales verdes y evitá los glitches rojos.",
+      "start": "INICIAR SEÑAL",
+      "wonTitle": "Sistema conectado",
+      "wonText": "Capturaste la señal y convertiste el ruido en un sistema vivo.",
+      "lostTitle": "Señal interrumpida",
+      "lostText": "Estuviste cerca. Volvé a entrar, encadená combos y mantenete lejos del ruido.",
+      "retry": "JUGAR DE NUEVO",
+      "footer": "12 señales · 30 segundos · 3 vidas"
+    },
+    "missionLabel": "Tu misión",
+    "routeLabel": "RUTA DEL SISTEMA",
+    "reset": "Reiniciar",
+    "startHint": "Elegí el primer nodo",
+    "activeHint": "La señal está activa",
+    "selectNode": "Seleccionar",
+    "nextMission": "Siguiente misión",
+    "nodes": {
+      "systems": "Sistemas",
+      "marketing": "Marketing",
+      "ai": "IA",
+      "design": "Diseño",
+      "product": "Producto"
+    },
+    "missions": {
+      "launch": {
+        "title": "Lanzá algo que importe",
+        "brief": "Una idea potente necesita convertirse en un producto deseable, funcional y capaz de encontrar a su audiencia. Conectá cuatro disciplinas en el orden que usarías para lanzarla.",
+        "hint": "Primero entendé a las personas. Después construí, convertí y amplificá."
+      },
+      "automate": {
+        "title": "Eliminá el trabajo repetitivo",
+        "brief": "Un equipo pierde horas en una tarea manual. Diseñá un sistema que detecte el patrón, lo automatice y termine siendo fácil de usar.",
+        "hint": "La automatización empieza en la lógica, aprende del patrón y termina en experiencia."
+      },
+      "growth": {
+        "title": "Recuperá una campaña",
+        "brief": "El producto funciona, pero la campaña dejó de convertir. Construí una ruta que transforme datos dispersos en una experiencia que vuelva a generar crecimiento.",
+        "hint": "Escuchá la señal del mercado, encontrá patrones y rediseñá la propuesta."
+      }
+    },
+    "results": {
+      "architect": {
+        "title": "SYSTEM ARCHITECT",
+        "description": "La ruta es clara, coherente y accionable. Pensaste como alguien que conecta disciplinas, no como silos."
+      },
+      "builder": {
+        "title": "SYSTEM BUILDER",
+        "description": "El sistema funciona y tiene una lógica sólida. Hay margen para ordenar mejor la señal y multiplicar el impacto."
+      },
+      "explorer": {
+        "title": "SIGNAL EXPLORER",
+        "description": "Encontraste conexiones inesperadas. Probá otra secuencia: a veces el orden cambia por completo el resultado."
+      }
+    }
+  },
+  "marketing": {
+    "sectionNumber": "05",
     "sectionTitle": "MARKETING.MODULE",
     "subtitle": "No es hacer posts. Es construir sistemas de crecimiento.",
     "intro": "Trabajo en marketing digital para empresas reales. No es un interés casual — es parte de mi práctica profesional actual.",
@@ -77,7 +146,7 @@
     }
   },
   "ai": {
-    "sectionNumber": "05",
+    "sectionNumber": "06",
     "sectionTitle": "AI.TOOLKIT",
     "subtitle": "No construyo modelos de IA. Uso IA para construir mejor.",
     "intro": "La inteligencia artificial no es una moda en mi workflow — es una herramienta de trabajo diaria que potencia mis procesos creativos y técnicos.",
@@ -91,7 +160,7 @@
     }
   },
   "skills": {
-    "sectionNumber": "06",
+    "sectionNumber": "07",
     "sectionTitle": "SKILLS.MAP",
     "subtitle": "Sin porcentajes arbitrarios. Skills reales con contexto.",
     "categories": {
@@ -107,7 +176,7 @@
     }
   },
   "currently": {
-    "sectionNumber": "07",
+    "sectionNumber": "08",
     "sectionTitle": "STATUS.CURRENT",
     "subtitle": "Qué estoy haciendo ahora.",
     "items": {
@@ -119,7 +188,7 @@
     }
   },
   "contact": {
-    "sectionNumber": "08",
+    "sectionNumber": "09",
     "sectionTitle": "CONNECT.INIT",
     "headline": "Construyamos algo.",
     "description": "Si tenés un proyecto, una idea o una oportunidad — hablemos.",

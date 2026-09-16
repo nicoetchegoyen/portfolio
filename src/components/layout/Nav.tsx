@@ -12,7 +12,7 @@ export function Nav({ activeSection }: NavProps) {
   const { t, i18n } = useTranslation();
   const { theme, toggleTheme } = useTheme();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const visibleItems = navItems.filter(item => ['about', 'projects', 'skills', 'contact'].includes(item.id));
+  const visibleItems = navItems.filter(item => ['about', 'projects', 'game', 'contact'].includes(item.id));
 
   const toggleLanguage = () => {
     i18n.changeLanguage(i18n.language === 'es' ? 'en' : 'es');

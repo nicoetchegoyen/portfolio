@@ -28,7 +28,7 @@ export function SkillsSection() {
   return (
     <Section id="skills">
       <SectionHeader 
-        number="06" 
+        number="07"
         title={t('skills.sectionTitle', 'SKILLS.MAP')} 
         subtitle={t('skills.subtitle', 'Sin porcentajes arbitrarios. Skills reales con contexto.')}
       />

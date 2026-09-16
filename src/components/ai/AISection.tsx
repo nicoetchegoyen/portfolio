@@ -21,7 +21,7 @@ export function AISection() {
   return (
     <Section id="ai">
       <SectionHeader 
-        number="05" 
+        number="06"
         title={t('ai.sectionTitle', 'AI.TOOLKIT')} 
         subtitle={t('ai.subtitle', 'No construyo modelos de IA. Uso IA para construir mejor.')}
       />

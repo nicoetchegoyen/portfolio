@@ -5,6 +5,7 @@ import HeroSection from './components/hero/HeroSection'
 import AboutSection from './components/about/AboutSection'
 import TimelineSection from './components/timeline/TimelineSection'
 import ProjectsSection from './components/projects/ProjectsSection'
+import NodeShiftSection from './components/game/NodeShiftSection'
 import MarketingSection from './components/marketing/MarketingSection'
 import AISection from './components/ai/AISection'
 import SkillsSection from './components/skills/SkillsSection'
@@ -48,6 +49,7 @@ function App() {
         <AboutSection />
         <TimelineSection />
         <ProjectsSection />
+        <NodeShiftSection />
         <MarketingSection />
         <AISection />
         <SkillsSection />

@@ -10,7 +10,7 @@ export function ContactSection() {
 
   return (
     <Section id="contact">
-      <SectionHeader number="08" title={t('contact.sectionTitle', 'CONNECT.INIT')} />
+      <SectionHeader number="09" title={t('contact.sectionTitle', 'CONNECT.INIT')} />
       
       <div className="contact-panel py-16 md:py-24 px-6 flex flex-col items-center text-center rounded-[32px] border border-[var(--color-border)] overflow-hidden relative">
         <motion.div
