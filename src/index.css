@@ -356,8 +356,18 @@ a { text-decoration: none; }
 
 @media (max-width: 768px) {
   body { background-size: 40px 40px; }
-  .hero-title { font-size: clamp(3.55rem, 20vw, 6rem); }
-  .hero-title-outline { padding-left: 0; margin-top: .12em; }
+  .hero-title {
+    width: 100%;
+    max-width: 100%;
+    font-size: clamp(3rem, 15vw, 5.5rem);
+    line-height: .84;
+    letter-spacing: -.085em;
+  }
+  .hero-title-outline {
+    padding-left: 0;
+    margin-top: .16em;
+    white-space: nowrap;
+  }
   .graph-card { transform: none; }
   .section-shell::before { left: 1.25rem; right: 1.25rem; }
   .section-shell { padding-top: 6rem !important; padding-bottom: 6rem !important; }
