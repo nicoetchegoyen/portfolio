@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "about": "Perfil",
+    "timeline": "Evolución",
+    "projects": "Proyectos",
+    "marketing": "Marketing",
+    "ai": "IA",
+    "skills": "Skills",
+    "currently": "Actualmente",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "status": "system.online — building",
+    "subtitle": "Estudiante de Sistemas construyendo en la intersección de tecnología, marketing e IA.",
+    "location": "Argentina · UADER · Lic. en Sistemas",
+    "cta": "Explorar proyectos"
+  },
+  "about": {
+    "sectionNumber": "01",
+    "sectionTitle": "ABOUT.PROFILE",
+    "intro": "No soy solo un programador. No soy solo un marketer. Soy una persona de Sistemas que entiende cómo construir cosas — y cómo hacer que tengan sentido para las personas.",
+    "introSecond": "Mi formación formal está en tecnología. Mi experiencia profesional está en marketing digital. Y uso inteligencia artificial como herramienta para potenciar ambas.",
+    "modules": {
+      "systems": {
+        "title": "systems.core",
+        "description": "Programación, arquitectura, resolución de problemas, backend, frontend, bases de datos."
+      },
+      "marketing": {
+        "title": "marketing.engine",
+        "description": "Estrategia digital, SEO, contenido, redes sociales, publicidad, análisis."
+      },
+      "creative": {
+        "title": "creative.layer",
+        "description": "Diseño, branding, UX/UI, contenido visual, comunicación."
+      },
+      "ai": {
+        "title": "ai.toolkit",
+        "description": "ChatGPT, Copilot, workflows con IA, automatización, prototipado."
+      }
+    }
+  },
+  "timeline": {
+    "sectionNumber": "02",
+    "sectionTitle": "EVOLUTION.LOG",
+    "subtitle": "No se trata de antigüedad. Se trata de evolución."
+  },
+  "projects": {
+    "sectionNumber": "03",
+    "sectionTitle": "PROJECTS.INDEX",
+    "subtitle": "Lo que construyo.",
+    "filters": {
+      "all": "Todos",
+      "dev": "Desarrollo",
+      "marketing": "Marketing",
+      "web": "Web",
+      "mobile": "Mobile"
+    },
+    "viewProject": "Ver proyecto",
+    "viewCode": "Código",
+    "viewLive": "En vivo",
+    "caseStudy": "Case Study"
+  },
+  "marketing": {
+    "sectionNumber": "04",
+    "sectionTitle": "MARKETING.MODULE",
+    "subtitle": "No es hacer posts. Es construir sistemas de crecimiento.",
+    "intro": "Trabajo en marketing digital para empresas reales. No es un interés casual — es parte de mi práctica profesional actual.",
+    "capabilities": {
+      "strategy": "Estrategia Digital",
+      "seo": "SEO & Posicionamiento",
+      "content": "Contenido & Comunicación",
+      "social": "Redes Sociales",
+      "ads": "Publicidad Digital",
+      "wordpress": "WordPress & Elementor",
+      "analytics": "Análisis & Optimización",
+      "branding": "Branding & Identidad"
+    }
+  },
+  "ai": {
+    "sectionNumber": "05",
+    "sectionTitle": "AI.TOOLKIT",
+    "subtitle": "No construyo modelos de IA. Uso IA para construir mejor.",
+    "intro": "La inteligencia artificial no es una moda en mi workflow — es una herramienta de trabajo diaria que potencia mis procesos creativos y técnicos.",
+    "workflows": {
+      "programming": { "title": "Programación", "description": "Pair programming, debugging, code review con Copilot y ChatGPT" },
+      "research": { "title": "Investigación", "description": "Research, análisis y síntesis de información" },
+      "content": { "title": "Contenido", "description": "Copy, ideas, iteración rápida de contenido" },
+      "design": { "title": "Diseño", "description": "Prototipado y exploración visual con IA" },
+      "marketing_ai": { "title": "Marketing", "description": "Estrategia, keywords, optimización con IA" },
+      "portfolio": { "title": "Este Portfolio", "description": "Construido con IA como herramienta de desarrollo" }
+    }
+  },
+  "skills": {
+    "sectionNumber": "06",
+    "sectionTitle": "SKILLS.MAP",
+    "subtitle": "Sin porcentajes arbitrarios. Skills reales con contexto.",
+    "categories": {
+      "technologies": "Technologies",
+      "systems": "Systems",
+      "digital": "Digital",
+      "ai": "AI"
+    },
+    "status": {
+      "active": "activo",
+      "learning": "aprendiendo",
+      "familiar": "familiar"
+    }
+  },
+  "currently": {
+    "sectionNumber": "07",
+    "sectionTitle": "STATUS.CURRENT",
+    "subtitle": "Qué estoy haciendo ahora.",
+    "items": {
+      "studying": { "label": "Cursando", "value": "Lic. en Sistemas — UADER (3er/4to año)" },
+      "working": { "label": "Trabajando", "value": "Marketing Digital — SOLO Logística" },
+      "learning": { "label": "Aprendiendo", "value": "React Native · TypeScript · Mobile Development" },
+      "building": { "label": "Construyendo", "value": "Apps móviles, e-commerce, este portfolio" },
+      "exploring": { "label": "Explorando", "value": "IA aplicada, automatización, producto" }
+    }
+  },
+  "contact": {
+    "sectionNumber": "08",
+    "sectionTitle": "CONNECT.INIT",
+    "headline": "Construyamos algo.",
+    "description": "Si tenés un proyecto, una idea o una oportunidad — hablemos.",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "theme": {
+    "dark": "Oscuro",
+    "light": "Claro"
+  },
+  "language": {
+    "es": "ES",
+    "en": "EN"
+  },
+  "footer": {
+    "designed": "Diseñado y construido por Nicolás Etchegoyen",
+    "year": "2026"
+  }
+}
